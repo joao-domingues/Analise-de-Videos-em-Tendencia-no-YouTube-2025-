@@ -79,4 +79,4 @@ Etapas realizadas no pipeline de dados:
 1. Clone o repositório: git clone https://github.com/seu-usuario/nome-do-repositorio.git
 2. pip install pandas numpy matplotlib seaborn
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   gh clone joao-domingues/Analise-de-Videos-em-Tendencia-no-YouTube-2025-

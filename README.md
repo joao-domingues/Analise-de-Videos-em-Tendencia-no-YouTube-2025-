@@ -68,6 +68,7 @@ Etapas realizadas no pipeline de dados:
 ### 4. Relação entre Views e Likes
 - Scatter plot global
 <img width="640" height="480" alt="likes vs views" src="https://github.com/user-attachments/assets/7c576b94-86b4-4e5a-9374-2a34cc0d747e" />
+
 - Scatter plot específico para o Brasil
 <img width="640" height="480" alt="likes vs views brasil" src="https://github.com/user-attachments/assets/8e7dd183-cd98-48dd-bae1-30809b5a1782" />
 

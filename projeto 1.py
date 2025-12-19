@@ -60,8 +60,3 @@ plt.show()
 df_br.plot.scatter(x='views', y='likes', alpha=0.5)
 plt.title('Likes vs Views')
 plt.show()
-
-
-
-
-
